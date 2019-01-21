@@ -1,0 +1,11 @@
+hello crypto
+
+this is a message
+
+more message things
+
+even more message things
+
+plain text block things
+
+the end
